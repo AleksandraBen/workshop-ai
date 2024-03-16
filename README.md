@@ -1,0 +1,2 @@
+# workshop-ai
+Project repository
